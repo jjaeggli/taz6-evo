@@ -69,7 +69,6 @@ These designs have not yet been tested beyond one TAZ6 printer, and required tro
 ## BOM
 
 * An assortment of M3 hex socket screws sizes 4mm - 25mm including nuts
-* (8) M3 x 35mm hex socket screws
 * A handful of M3 poly washers
 * A bunch of M3 5.5mm x 4mm heat set inserts
 * (4) M5 heat set inserts (mine are M5 x 9.5) 
@@ -144,7 +143,7 @@ All inserts on the mounting plate are optional. Hex nuts are used for all pull-t
 * Snap Igus bearings in place. (Be careful as they do easily pinch skin)
 * Test the blocks on one loose end of a rod. If the block is too tight / does not travel easily, remove the bearings and perform some additional sanding and trimming on the retaining rings inside the block.
 * Fit (2) M3 nuts for the TAZ mount into the *back* of `MountingPlate` (the back is the side without the groove).
-* Attach the bearing blocks with (4) M3 x 35mm screws and (4) M3 nuts for each block. The screws should be somewhat loose but still engaged in the nuts.
+* Attach the bearing blocks with (4) M3 x 25mm screws and (4) M3 nuts for each block. The screws should be somewhat loose but still engaged in the nuts.
 
 #### Z1-Axis Traveler
 
@@ -189,3 +188,7 @@ The X and Z axes intersect at the junction of the X-axis rails, and the Z-axis r
 * Ensure that either `TazMount` or `EndStopClicker` is installed before homing the printer *or you will hear bad noises*.
 * Use (2) M3 x 12mm screws to attach either part to the toolhead.
 * Move the X-carriage all the way to the left to test contact with the X-min microswitch.
+
+![Installed](assets/taz6-evo-x-carriage-installed.jpg)
+
+![Printing](assets/printing-animated.gif)
